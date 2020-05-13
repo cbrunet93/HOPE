@@ -14,6 +14,6 @@ TO DO
         On Windows/OSX, run docker-machine ip default (replace default with the name of your machine). Then, you'll be able to access Jupyter notebook at CONTAINER_IP:8888.
 
 
-# Release Version
+# Release Timeline
 
 v1.0 - May 10, 2020 - Initial Commmit
