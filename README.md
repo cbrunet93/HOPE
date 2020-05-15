@@ -3,10 +3,13 @@
 
 TBD
 
-# 4 Lines of BASH to Replicate Entire Webscraping + Analysis
+# 4 Lines of BASH to Replicate 
 
 1. git clone  https://github.com/cbrunet93/HOPE
 2. cd HOPE
+
+NOTE: DOCKER IS BROKEN/NOT WORKING YET 
+
 3. docker pull ghislainv/docker-debian-jupyter.
 4.  docker run -d -p 8888:8888 -v ORIGIN_FOLDER:/home/dockeruser/notebooks ghislainv/docker-debian-jupyter
     - Replace ORIGIN_FOLDER with a folder on your local machine that you want to persist notebooks in.
