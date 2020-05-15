@@ -3,7 +3,7 @@
 
 TBD
 
-# 5 Lines of BASH Scripting to Replicate this Analysis 
+# 4 Lines of BASH to Replicate Entire Webscraping + Analysis
 
 1. git clone  https://github.com/cbrunet93/HOPE
 2. cd HOPE
@@ -14,6 +14,10 @@ TBD
     - On Linux, the url will be localhost:8888.
     - On Windows/OSX, run docker-machine ip default (replace default with the name of your machine). Then, you'll be able to access     
     Jupyter notebook at CONTAINER_IP:8888.
+
+# To-Do
+
+1. Make a better README file
 
 # Release Timeline
 
