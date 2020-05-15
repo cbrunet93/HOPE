@@ -1,9 +1,7 @@
 
 # What is the HOPE database?
 
-This repo has 2 parts: first, we scrape a bunch of bibliogrpahical citation data, and o
-
-A Quantitative History of Economic Research by Women (1940--2015)
+TBD
 
 # 5 Lines of BASH Scripting to Replicate this Analysis 
 
