@@ -12,5 +12,6 @@ TBD
 
 # Release Timeline
 
-v1.0 - May 23, 2020 - REPEC was used instead of Springer
-v1.0 - May 10, 2020 - Initial Commmit
+v1.0 - May 23, 2020 - REPEC was used instead of Springer 
+
+v1.1 - May 10, 2020 - Initial Commmit
