@@ -1,0 +1,63 @@
+1591618803269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mr6uWKLbqeqW"
+1591618805214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591618805214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591618805214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591618805214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 51036, tid 51036, syscall 315, args 51036 140592087348672 56 0 39 140592087348672.
+Sandbox: seccomp sandbox violation: pid 51058, tid 51058, syscall 315, args 51058 139714535143424 56 0 31 139714535143424.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://195ca0b3-8b75-4b98-8c4f-f114163e9a8b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591618810145	Marionette	INFO	Listening on port 37165
+1591618810227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591618834191	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1591618834465	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1591618834510	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v:project=econlit&v:frame=form&frontpage=1, line 3781: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3aproject=econlit&v%3asources=All&&v%3aproject=econlit&v%3aframe=form&form=econlit-advanced&, line 3907: unreachable code after return statement
+JavaScript error: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3aproject=econlit&v%3asources=All&&v%3aproject=econlit&v%3aframe=form&form=econlit-advanced&, line 4766: TypeError: query_autocomplete_widget.itemSelectEvent is null
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-advanced&query=&v%3Asources=All&v%3Aignore=book&v%3Aignore=bookreview&v%3Aignore=collective&v%3Aignore=dissertation&v%3Aignore=journal&v%3Aignore=workingpaper&num=1000&author=&title=&source=The+Economic+Journal&subjdesc=&update=&year=&yearmin=1940&yearmax=1940&v%3Aproject=econlit, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-advanced&query=&v%3Asources=All&v%3Aignore=book&v%3Aignore=bookreview&v%3Aignore=collective&v%3Aignore=dissertation&v%3Aignore=journal&v%3Aignore=workingpaper&num=1000&author=&title=&source=The+Economic+Journal&subjdesc=&update=&year=&yearmin=1940&yearmax=1940&v%3Aproject=econlit, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-simple&num=1000&v%3Asources=All&v%3Aproject=econlit&query=so%3AThe+so%3AEconomic+so%3AJournal+yearmin%3A1950+yearmax%3A1950&sortby=, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-simple&num=1000&v%3Asources=All&v%3Aproject=econlit&query=so%3AThe+so%3AEconomic+so%3AJournal+yearmin%3A1960+yearmax%3A1960&sortby=, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-simple&num=1000&v%3Asources=All&v%3Aproject=econlit&query=+so%3AEconomic+so%3AJournal+yearmin%3A1960+yearmax%3A1960&sortby=, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-simple&num=1000&v%3Asources=All&v%3Aproject=econlit&query=+so%3A+the+so%3AEconomic+so%3AJournal+yearmin%3A1960+yearmax%3A1960&sortby=, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-simple&num=1000&v%3Asources=All&v%3Aproject=econlit&query=+so%3A+the+so%3AEconomic+so%3AJournal+yearmin%3A2000+yearmax%3A2000&sortby=, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3aproject=econlit&v%3asources=journal&query=%20so%3A%20the%20so%3AEconomic%20so%3AJournal%20yearmin%3A2000%20yearmax%3A2000, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3Asources=journal&v%3Aproject=econlit&query=so%3AEconomic+so%3AJournal+yearmin%3A2000+yearmax%3A2000&sortby=, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3Asources=journal&v%3Aproject=econlit&query=so%3AEconomic+so%3AJournal+yearmin%3A2000+yearmax%3A2000&sortby=, line 3751: unreachable code after return statement
+Sandbox: seccomp sandbox violation: pid 51103, tid 51103, syscall 315, args 51103 140181913725248 56 0 25 140181913725248.
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3Asources=journal&v%3Aproject=econlit&query=so%3A+The+so%3AEconomic+so%3AJournal+yearmin%3A2000+yearmax%3A2000&sortby=, line 3751: unreachable code after return statement
+JavaScript error: https://onlinelibrary.wiley.com/journal/14680297, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://onlinelibrary.wiley.com/journal/14680297, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://onlinelibrary.wiley.com/journal/14680297, line 1: ReferenceError: buildAttribution is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3Asources=journal&v%3Aproject=econlit&query=The+Time+Value+of+Housing%3A+Historical+Evidence+on+Discount+Rates&sortby=, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3aproject=econlit&v%3asources=journal&&query=The%20Time%20Value%20of%20Housing%3A%20Historical%20Evidence%20on%20Discount%20Rates&sortby=&v%3aproject=econlit&v%3aframe=form&form=econlit-advanced&, line 3907: unreachable code after return statement
+JavaScript error: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3aproject=econlit&v%3asources=journal&&query=The%20Time%20Value%20of%20Housing%3A%20Historical%20Evidence%20on%20Discount%20Rates&sortby=&v%3aproject=econlit&v%3aframe=form&form=econlit-advanced&, line 4766: TypeError: query_autocomplete_widget.itemSelectEvent is null
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-advanced&query=&v%3Asources=journal&num=500&author=&title=The+Time+Value+of+Housing&source=&subjdesc=&update=&year=&yearmin=&yearmax=&v%3Aproject=econlit, line 3751: unreachable code after return statement
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3aproject=econlit&v%3asources=journal&&query=The%20Time%20Value%20of%20Housing%3A%20Historical%20Evidence%20on%20Discount%20Rates&sortby=&v%3aproject=econlit&v%3aframe=form&form=econlit-advanced&, line 3907: unreachable code after return statement
+JavaScript error: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3aproject=econlit&v%3asources=journal&&query=The%20Time%20Value%20of%20Housing%3A%20Historical%20Evidence%20on%20Discount%20Rates&sortby=&v%3aproject=econlit&v%3aframe=form&form=econlit-advanced&, line 4766: TypeError: query_autocomplete_widget.itemSelectEvent is null
+Sandbox: seccomp sandbox violation: pid 51177, tid 51177, syscall 315, args 51177 140277947637120 56 0 9 140277947637120.
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-advanced&query=&v%3Asources=journal&num=500&author=&title=%0D%0ALiquidity+and+Firms%E2%80%99+Response+to+Fiscal+Stimulus&source=&subjdesc=&update=&year=&yearmin=&yearmax=&v%3Aproject=econlit, line 3751: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3aproject=econlit&v%3asources=journal&&query=The%20Time%20Value%20of%20Housing%3A%20Historical%20Evidence%20on%20Discount%20Rates&sortby=&v%3aproject=econlit&v%3aframe=form&form=econlit-advanced&, line 3907: unreachable code after return statement
+JavaScript error: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v%3aproject=econlit&v%3asources=journal&&query=The%20Time%20Value%20of%20Housing%3A%20Historical%20Evidence%20on%20Discount%20Rates&sortby=&v%3aproject=econlit&v%3aframe=form&form=econlit-advanced&, line 4766: TypeError: query_autocomplete_widget.itemSelectEvent is null
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?input-form=econlit-advanced&query=&v%3Asources=journal&num=500&author=&title=Coal+Smoke+and+Mortality+in+an+Early+Industrial+Economy&source=&subjdesc=&update=&year=&yearmin=&yearmax=&v%3Aproject=econlit, line 3751: unreachable code after return statement
+Sandbox: seccomp sandbox violation: pid 51215, tid 51215, syscall 315, args 51215 140696865283392 56 0 10 140696865283392.
+Sandbox: seccomp sandbox violation: pid 51251, tid 51251, syscall 315, args 51251 139785514322432 56 0 23 139785514322432.
+Sandbox: seccomp sandbox violation: pid 51273, tid 51273, syscall 315, args 51273 139932318108160 56 0 23 139932318108160.
+Sandbox: seccomp sandbox violation: pid 51295, tid 51295, syscall 315, args 51295 139914644359680 56 0 23 139914644359680.
+Sandbox: seccomp sandbox violation: pid 51326, tid 51326, syscall 315, args 51326 140305159236096 56 0 23 140305159236096.
+[Parent 50991, Gecko_IOThread] WARNING: pipe error (196): Connection reset by peer: file /build/firefox-esr-SNKf5O/firefox-esr-68.7.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 50991, Gecko_IOThread] WARNING: pipe error (192): Connection reset by peer: file /build/firefox-esr-SNKf5O/firefox-esr-68.7.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1591623702116	Marionette	INFO	Stopped listening on port 37165
