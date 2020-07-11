@@ -1,0 +1,13 @@
+1593050862657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eDJUj3LAqiAJ"
+1593050863819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1593050863819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1593050863819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1593050863819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 5173, tid 5173, syscall 315, args 5173 139964314614336 56 0 22 139964314614336.
+Sandbox: seccomp sandbox violation: pid 5190, tid 5190, syscall 315, args 5190 140672758766080 56 0 23 140672758766080.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://204a5a84-a4d2-47ad-8bd6-548a4cf22c8e/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1593050868490	Marionette	INFO	Listening on port 36935
+1593050868511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593050870500	Marionette	INFO	Stopped listening on port 36935

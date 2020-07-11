@@ -1,0 +1,186 @@
+1591309764206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wKPuHzfNE6Mj"
+1591309766235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591309766236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591309766236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591309766236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 14131, tid 14131, syscall 315, args 14131 140512832825280 56 0 32 140512832825280.
+Sandbox: seccomp sandbox violation: pid 14153, tid 14153, syscall 315, args 14153 140475725830144 56 0 31 140475725830144.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4285920c-f390-4eb1-ab9d-0ae2b3d1113d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591309773508	Marionette	INFO	Listening on port 45637
+1591309773575	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 14200, tid 14200, syscall 315, args 14200 139635353970368 56 0 28 139635353970368.
+Sandbox: seccomp sandbox violation: pid 14238, tid 14238, syscall 315, args 14238 140360729565440 56 0 27 140360729565440.
+JavaScript warning: https://library.queensu.ca/sites/default/files/js/js_LtBibRJe5XeqVBL6Oz96NWXGfzvOTzFbrD0dGivBUh4.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Sandbox: seccomp sandbox violation: pid 14270, tid 14270, syscall 315, args 14270 139836832680256 56 0 26 139836832680256.
+Sandbox: seccomp sandbox violation: pid 14297, tid 14297, syscall 315, args 14297 140242624137536 56 0 26 140242624137536.
+Sandbox: seccomp sandbox violation: pid 14322, tid 14322, syscall 315, args 14322 140191994809664 56 0 10 140191994809664.
+Sandbox: seccomp sandbox violation: pid 14372, tid 14372, syscall 315, args 14372 139970556533312 56 0 22 139970556533312.
+Sandbox: seccomp sandbox violation: pid 14405, tid 14405, syscall 315, args 14405 140665521253184 56 0 18 140665521253184.
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.114.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+Sandbox: seccomp sandbox violation: pid 14405, tid 14445, syscall 332, args 0 0 0 4095 0 0.
+1591310423721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2oVucKASp8tN"
+1591310425233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591310425233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591310425234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591310425234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 14585, tid 14585, syscall 315, args 14585 139803996371904 56 0 16 139803996371904.
+Sandbox: seccomp sandbox violation: pid 14608, tid 14608, syscall 315, args 14608 140431777888384 56 0 29 140431777888384.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8a7a6be7-ec1d-47c8-ae31-3cced0340512/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591310431022	Marionette	INFO	Listening on port 38829
+1591310431096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 45: TypeError: window is null
+Sandbox: seccomp sandbox violation: pid 14656, tid 14656, syscall 315, args 14656 139761499818304 56 0 24 139761499818304.
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js?442031, line 1: Error: CE: multiple userscripts installed
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.114.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+Sandbox: seccomp sandbox violation: pid 14656, tid 14774, syscall 332, args 0 0 0 4095 0 0.
+JavaScript error: https://ad.doubleclick.net/ddm/adj/N572608.468584AMNETGROUP/B23934097.270613602;dc_ver=57.157;dc_eid=40004001;sz=300x250;u_sd=1;dc_adk=1703036017;ord=bzu1dt;click=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjssy8c8Qmwsil2rVTZGRy44jbX-NsMJH-xNUPmKW9jMA384ttpGdRaQIRBLW1xJfZhnHxeQc5_-p5u7ri2embD_EZUz9D8w-Wt1IonzqfWsUg_pYnLbpXooWCvFaOnrMpsZ_IXtQuOYwC-8efZNGAWYFDIb2UobdhjLK5Va3UL0GUas8ruyvKCfGyPzeIRDLfCU7LxBsNanw1fPRBYhTqoIwSNWciYbvtHo0fVXHK_mGUktt3OiT_EJ3H_HvZHaEINzGwCFWCH2oDQz5c24KtDwoS9EJXBtaR1AM-b59fcJrfssTUQ%26sig%3DCg0ArKJSzAEhUY4cHVFTEAE%26urlfix%3D1%26adurl%3Dhttps%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%3Fsa%3DL%26ai%3DCVpkA1HnZXoCLGNObMLWRvugEgIHcq1zGvIjbnwjAjbcBEAEgAGD96KKB8AOCARdjYS1wdWItNjYwNTEyMzEyMzUxODUyMMgBCeACAKgDAaoErAJP0A4q8NDPfB8mONdPPs3T5WBvd2zdmUJNFpfWuTJhZYI38MLx9JB7Odn9h6HddZL67HN5l7rxL1-NMkb0hAj8kHGppDqj0iH3nKsPJyRJX99vysVLc77-BF78GzdYNaBg1nvP6z3AvkmrGZYpzg6H64m3wHFO6sgrcagh2oLVcSG9F23QyI1y0JxF8wYS4hD-czrwHcMPg_f4X87BZZR3LxmBgGQLTkxPv_44It4-0CjTrF5EIsgw5eARbqmSV8mokmIxH-axW9i6JfZM7s9r7UaYPXiBBUAGbl5mzIBT8FnEP1pS1y5jeH6mMcuki2dfkeWWyTb3ilrwiUF6PVgNkqW5FDUMF2Kzg-obYfeAABOtfr5k9AvfHOJ2ScD3Mi9DZCMkcazBcn4toLjgBAGABrq26avXzunEsgGgBiGoB6a-G6gH8NkbqAfy2RuoB-zVG6gHltgbqAfC2hvYBwDyBwIgAdIIBQiAYRAB-gsCCAGADAE%26num%3D1%26sig%3DAOD64_2XpOerHY5K7Azj3vgbfMKNJR4ycA%26client%3Dca-pub-6605123123518520%26adurl%3Dhttps%3A%2F%2Fpr.ybp.yahoo.com%2Fcj%2Fcd%2FnJvcaHinT361KHh-h5WdzN6NBrVIc0608WksworSIiPCLIJi9JpWf6HhvuUqiLzXgT-y45zrmE51ZmKj6TC7YKoyvfScA87v_oD0id6Ur1soRQ8Y2cC7B22KyKxSxPqwPffxOMCxfVEXP-ozZCUyWj6lfVbF8XwZ6s_FPU6AQF0cO_OSjOMR_sFGHW7VAXax%2Frurl%2F;dcopt=rcl;dc_rfl=1,https%3A%2F%2Fstackoverflow.com%2Fquestions%2F21350605%2Fpython-selenium-click-on-button$0;xdt=1;crlt=34BsVr8mYE;osda=2;sttr=172;prcl=s?, line 1: SyntaxError: invalid escape sequence
+Sandbox: seccomp sandbox violation: pid 14734, tid 14734, syscall 315, args 14734 139868037254976 56 0 2 139868037254976.
+Sandbox: seccomp sandbox violation: pid 14779, tid 14779, syscall 315, args 14779 140111591054336 56 0 15 140111591054336.
+Sandbox: seccomp sandbox violation: pid 14809, tid 14809, syscall 315, args 14809 140566967697344 56 0 0 140566967697344.
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js?442031, line 1: Error: CE: multiple userscripts installed
+1591311052314	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1591311052559	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1591311052613	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+Sandbox: seccomp sandbox violation: pid 14837, tid 14837, syscall 315, args 14837 140593948479360 56 0 1 140593948479360.
+Sandbox: seccomp sandbox violation: pid 15054, tid 15054, syscall 315, args 15054 139959524473792 56 0 16 139959524473792.
+[Parent 14542, Gecko_IOThread] WARNING: pipe error (167): Connection reset by peer: file /build/firefox-esr-SNKf5O/firefox-esr-68.7.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591312814331	Marionette	INFO	Stopped listening on port 38829
+[Parent 14068, Gecko_IOThread] WARNING: pipe error (147): Connection reset by peer: file /build/firefox-esr-SNKf5O/firefox-esr-68.7.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1591312819085	Marionette	INFO	Stopped listening on port 45637
+1591312821052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xPOsEXfYArWL"
+1591312822069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591312822069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591312822069	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591312822070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15273, tid 15273, syscall 315, args 15273 140661573330368 56 0 39 140661573330368.
+Sandbox: seccomp sandbox violation: pid 15295, tid 15295, syscall 315, args 15295 140509648308352 56 0 29 140509648308352.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://1e301d4b-298a-4645-8dfb-ee0b2b5f99de/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591312825911	Marionette	INFO	Listening on port 38789
+1591312825981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591312847898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3qGqal1ZYtB0"
+1591312848890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591312848890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591312848890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591312848890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15413, tid 15413, syscall 315, args 15413 139697840764480 56 0 37 139697840764480.
+Sandbox: seccomp sandbox violation: pid 15435, tid 15435, syscall 315, args 15435 140582076598272 56 0 31 140582076598272.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://e9d3f938-5c14-46a3-b529-938bade85099/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591312852808	Marionette	INFO	Listening on port 41981
+1591312852843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591312859435	Marionette	INFO	Stopped listening on port 41981
+1591312860842	Marionette	INFO	Stopped listening on port 38789
+1591312887434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I0awYiCEpBEW"
+1591312890969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591312890969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591312890969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591312890969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15624, tid 15624, syscall 315, args 15624 139958977075136 56 0 32 139958977075136.
+Sandbox: seccomp sandbox violation: pid 15648, tid 15648, syscall 315, args 15648 140431044937728 56 0 31 140431044937728.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://80b0aaf4-be7c-457f-8939-bdc078b3a637/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591312900003	Marionette	INFO	Listening on port 44493
+1591312900025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591312927905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hiwgapYbHfum"
+1591312928975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591312928975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591312928975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591312928975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15770, tid 15770, syscall 315, args 15770 140095928449024 56 0 31 140095928449024.
+Sandbox: seccomp sandbox violation: pid 15792, tid 15792, syscall 315, args 15792 139868159920192 56 0 30 139868159920192.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://bd77d0a1-9f19-4dd2-b762-fae433b53991/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591312932672	Marionette	INFO	Stopped listening on port 44493
+1591312933894	Marionette	INFO	Listening on port 45249
+1591312933943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591312987785	Marionette	INFO	Stopped listening on port 45249
+1591313006010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E4keiw9EgsKE"
+1591313007378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591313007378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591313007379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591313007379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15953, tid 15953, syscall 315, args 15953 139970055280704 56 0 30 139970055280704.
+Sandbox: seccomp sandbox violation: pid 15975, tid 15975, syscall 315, args 15975 139915709671552 56 0 29 139915709671552.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://29752918-a024-4463-8598-11ca924fb46b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591313011315	Marionette	INFO	Listening on port 34997
+1591313011356	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 16025, tid 16025, syscall 315, args 16025 140455146415552 56 0 38 140455146415552.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   1591313739090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cFgXQpd6ChzE"
+1591313744482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591313744482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591313744483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591313744483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 1424, tid 1424, syscall 315, args 1424 140100785440896 56 0 29 140100785440896.
+Sandbox: seccomp sandbox violation: pid 1446, tid 1446, syscall 315, args 1446 139743774668416 56 0 36 139743774668416.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0c5c9488-75be-4369-b0b5-7c0fbc748761/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591313753029	Marionette	INFO	Listening on port 39627
+1591313753126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591313801646	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1591313801903	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1591313801962	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+Sandbox: seccomp sandbox violation: pid 1498, tid 1498, syscall 315, args 1498 140535398197632 56 0 24 140535398197632.
+Sandbox: seccomp sandbox violation: pid 1543, tid 1543, syscall 315, args 1543 140147508976768 56 0 13 140147508976768.
+JavaScript warning: http://efm.aeaweb.org/vivisimo/cgi-bin/query-meta?v:project=econlit&v:frame=form&frontpage=1, line 3781: unreachable code after return statement
+1591314059725	Marionette	INFO	Stopped listening on port 39627
+1591314066269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rVlMoGI3koSW"
+1591314067224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591314067224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591314067225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591314067225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 1735, tid 1735, syscall 315, args 1735 140178620201024 56 0 30 140178620201024.
+Sandbox: seccomp sandbox violation: pid 1757, tid 1757, syscall 315, args 1757 140114842671104 56 0 31 140114842671104.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://1acf2997-8063-4017-abf9-45f2ca15c4f1/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591314071050	Marionette	INFO	Listening on port 43975
+1591314071098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591314129282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G44LXIEaxjoT"
+1591314130267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591314130267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591314130268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591314130268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 1925, tid 1925, syscall 315, args 1925 140296588142144 56 0 37 140296588142144.
+Sandbox: seccomp sandbox violation: pid 1947, tid 1947, syscall 315, args 1947 139901750003840 56 0 29 139901750003840.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7c84e18b-173f-4b3f-8901-bf7f71e80221/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591314133854	Marionette	INFO	Listening on port 37985
+1591314133915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591314475347	Marionette	INFO	Stopped listening on port 43975
+1591314477382	Marionette	INFO	Stopped listening on port 37985
+1591314486210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SbRN5HL8e11u"
+1591314487190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591314487190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591314487190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591314487191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 2222, tid 2222, syscall 315, args 2222 139639076464192 56 0 37 139639076464192.
+Sandbox: seccomp sandbox violation: pid 2244, tid 2244, syscall 315, args 2244 140484966926336 56 0 31 140484966926336.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0b7a61a5-1dca-4f31-a01e-d7d9ae55b5f3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591314490628	Marionette	INFO	Listening on port 35313
+1591314490638	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 2291, tid 2291, syscall 315, args 2291 140381108626880 56 0 39 140381108626880.
+1591314513134	Marionette	INFO	Stopped listening on port 35313
